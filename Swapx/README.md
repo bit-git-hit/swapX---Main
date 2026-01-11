@@ -409,62 +409,10 @@ NEXT_PUBLIC_DEBUG=true
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🏆 Team
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Aman Mishra</strong><br>
-      <em>Full Stack Developer</em><br>
-      📧 <a href="mailto:amanmis601@gmail.com">amanmis601@gmail.com</a>
-    </td>
-    <td align="center">
-      <strong>Akash Chandra</strong><br>
-      <em>Frontend Developer</em><br>
-      📧 <a href="mailto:akashc.ug23.cs@nitp.ac.in">akashc.ug23.cs@nitp.ac.in</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Jai Kumar</strong><br>
-      <em>Backend Developer</em><br>
-      📧 <a href="mailto:jaik.ug23.cs@nitp.ac.in">jaik.ug23.cs@nitp.ac.in</a>
-    </td>
-    <td align="center">
-      <strong>Sumit Kumar</strong><br>
-      <em>UI/UX Designer</em><br>
-      📧 <a href="mailto:sumitk.ug23.cs@nitp.ac.in">sumitk.ug23.cs@nitp.ac.in</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📞 Support
-
-- 📚 **Documentation**: [Wiki](https://github.com/amannitp131/SwapX/wiki)
-- 🐛 **Bug Reports**: [Issues](https://github.com/amannitp131/SwapX/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/amannitp131/SwapX/discussions)
-- 📧 **Email**: support@swapx.com
-
----
-
-<div align="center">
-
-### 🌱 Together, let's make fashion sustainable! 
-
-[![GitHub stars](https://img.shields.io/github/stars/amannitp131/SwapX?style=social)](https://github.com/amannitp131/SwapX)
-[![GitHub forks](https://img.shields.io/github/forks/amannitp131/SwapX?style=social)](https://github.com/amannitp131/SwapX)
-[![GitHub issues](https://img.shields.io/github/issues/amannitp131/SwapX)](https://github.com/amannitp131/SwapX/issues)
 
 **Made with ❤️ for sustainable fashion**
 
 </div>
+
 
 
